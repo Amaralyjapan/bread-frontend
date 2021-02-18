@@ -4,3 +4,5 @@
 This project contains the main features of the pancake application.
 
 If you want to contribute, please refer to the [contributing guidelines](./CONTRIBUTING.md) of this project.
+
+You can exchange cryptocurrencies with each other easily. This is a service supported by the Bread Exchange platform. Exchange rates are based on major exchanges. The swap fee is 0.2% per exchange. 
