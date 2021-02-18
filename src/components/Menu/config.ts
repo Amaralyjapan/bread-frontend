@@ -16,7 +16,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Liquidity',
-        href: 'https://bsc.bread.exchange/pool',
+        href: 'https://bsc.bread.exchange/#/pool',
       },
     ],
   },
@@ -65,19 +65,19 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Overview',
-        href: 'https://info.bread.exchange/',
+        href: 'https://breadswap.info/',
       },
       {
         label: 'Tokens',
-        href: 'https://info.bread.exchange/tokens',
+        href: 'hhttps://breadswap.info/tokens',
       },
       {
         label: 'Pairs',
-        href: 'hhttps://info.bread.exchange/pairs',
+        href: 'https://breadswap.info/pairs',
       },
       {
         label: 'Accounts',
-        href: 'https://info.bread.exchange/accounts',
+        href: 'https://breadswap.info/accounts',
       },
     ],
   },
@@ -92,7 +92,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Voting',
-        href: 'https://voting.bread.exchange/',
+        href: 'https://bread.exchange/voting',
       },
       {
         label: 'Github',
@@ -100,7 +100,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Docs',
-        href: 'https://docs.bread.exchange/',
+        href: 'https://bread.exchange/docs',
       },
       {
         label: 'Blog',
