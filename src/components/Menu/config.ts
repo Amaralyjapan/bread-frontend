@@ -69,15 +69,15 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Tokens',
-        href: 'hhttps://breadswap.info/tokens',
+        href: 'hhttps://breadswap.info/#/tokens',
       },
       {
         label: 'Pairs',
-        href: 'https://breadswap.info/pairs',
+        href: 'https://breadswap.info/#/pairs',
       },
       {
         label: 'Accounts',
-        href: 'https://breadswap.info/accounts',
+        href: 'https://breadswap.info/#/accounts',
       },
     ],
   },
