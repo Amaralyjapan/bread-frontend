@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "github.vscode-pull-request-github-insiders"
+        "github.vscode-pull-request-github-insiders",
+        "fknop.vscode-npm"
     ]
 }
